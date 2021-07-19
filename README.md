@@ -2,7 +2,7 @@
 
 This project consists of two components -
 
-###  Compnent 1 - Web Scraping module
+###  Component 1 - Web Scraping module
 
 You are required to scrape two weeks ( Jan 1 , 2021 to Jan 14 , 2021) of  web news files from The Hindu archive site : https://www.thehindu.com/archive/web/2021/01/. As per the Robots.txt at Hindu website(https://www.thehindu.com/robots.txt) , the archives section is NOT in disallow , thus it implies it is within legal norms to scrape the archive section.
 
